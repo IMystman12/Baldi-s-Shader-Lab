@@ -24,7 +24,7 @@ Material:
   m_Shader: {fileID: -6465566751694194690, guid: 439f3a75cf2372e4080a95989b952ce8, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
+  m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
@@ -100,6 +100,7 @@ Material:
     - Boolean_b77d9514fad44e258818cc25b114f0e8: 1
     - Vector1_ea39a09e79be4af085e630f03bdf852a: 0.1
     - _AlphaClip: 0
+    - _Billboard: 0
     - _Blend: 0
     - _BumpScale: 1
     - _ClearCoatMask: 0
@@ -109,7 +110,7 @@ Material:
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _EndDist: 20
+    - _EndDist: 0
     - _EnvironmentReflections: 1
     - _Fog: 0
     - _GlossMapScale: 0
@@ -125,9 +126,11 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _StartDist: 5
+    - _StartDist: 0
     - _Surface: 0
+    - _TileLoactedLight: 0
     - _WorkflowMode: 1
+    - _ZRotate: 0
     - _ZWrite: 1
     m_Colors:
     - Color_92f096a688c54c64b46c74bdd0e328c2: {r: 1, g: 1, b: 1, a: 1}

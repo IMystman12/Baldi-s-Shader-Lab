@@ -897,7 +897,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "fc689dd932c14a70b6070a55233b98f4",
     "m_Id": 0,
-    "m_DisplayName": "Vector1",
+    "m_DisplayName": "In",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
